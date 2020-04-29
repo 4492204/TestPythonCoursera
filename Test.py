@@ -7,4 +7,4 @@ class Complex:
 a = Complex(1, 2)
 b = Complex(3)
 c = Complex()
-print(b)
+print(str(c), str(b))
